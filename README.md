@@ -1,8 +1,7 @@
 # 
 ![image](https://github.com/junmin76/delivery-JUNMIN/assets/31524855/55e6aad3-3e8c-45ba-82c1-0d59ce3f6a86)
 
-![image](https://user-images.githubusercontent.com/31524855/237037071-ae78d84d-c8c4-41b5-b5ab-88ee038291d0.png)
-![image](https://user-images.githubusercontent.com/31524855/237037293-e9a840b0-0333-46d2-8b62-1d05fd39f5bd.png)
+![image](https://github.com/junmin76/delivery-JUNMIN/assets/31524855/212dfcfd-a005-4293-8e4f-c535e923c1f8)
 
 ## Model
 www.msaez.io/#/storming/deliveryjunmin
