@@ -1,9 +1,6 @@
 # 
-![image](https://github.com/junmin76/delivery-JUNMIN/assets/31524855/55e6aad3-3e8c-45ba-82c1-0d59ce3f6a86)
 1.Event Storming Model
-
-![image](https://github.com/junmin76/delivery-JUNMIN/assets/31524855/212dfcfd-a005-4293-8e4f-c535e923c1f8
-
+![image](https://github.com/junmin76/delivery-JUNMIN/assets/31524855/66490359-50bc-4c03-a2c0-adf609d53190)
 
 2.Saga (Pub/Sub)
 ![image](https://github.com/junmin76/delivery-JUNMIN/assets/31524855/83fb72fe-330a-487e-a891-d9a7ed49ff42)
